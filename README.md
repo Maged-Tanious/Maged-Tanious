@@ -82,4 +82,4 @@
 
 ---
 
-⭐️ From [Maged Tanious](https://github.com/magedtanious/magedtanious)
+⭐️ From [Maged Tanious](https://github.com/maged-tanious/maged-tanious)
