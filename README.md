@@ -73,6 +73,7 @@
 <p>
 <a href="mailto:maged.atef.arteen@gmail.com">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="32"></a>
+  send me a message now 
 </p>
 
 ---
