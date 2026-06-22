@@ -70,10 +70,8 @@
 
 
 ## 📫 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/maat-mern/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:magedtanious@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+<p>
+<a href="mailto:maged.atef.arteen@gmail.com"><img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/gmail.png" alt="Gmail" width="32"></a>
 </p>
 
 ---
@@ -82,4 +80,4 @@
 
 ---
 
-⭐️ From [Maged Tanious](https://github.com/wolf-fs/wolf-fs)
+⭐️ From [Maged Tanious](https://github.com/magedtanious/magedtanious)
