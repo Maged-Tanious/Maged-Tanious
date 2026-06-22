@@ -1,6 +1,6 @@
 <p align="center">
   <code>
-    <img src="./assets/maged tanious - mern stack.png" >
+    <img src="./assets/assets/Maged Tanious -MERN Stack.png" >
   </code>
 </p>
 
