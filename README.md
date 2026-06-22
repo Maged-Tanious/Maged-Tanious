@@ -72,7 +72,7 @@
 ## 📫 Connect With Me
 <p>
 <a href="mailto:maged.atef.arteen@gmail.com">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="32">Send me a Message Now </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="32"> Send me a Message Now </a>
   
 </p>
 
